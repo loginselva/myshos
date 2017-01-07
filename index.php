@@ -2,7 +2,7 @@
 <html>
  <head>
 
-  <title>My Shop</title>
+  <title>My Shops</title>
   <meta name="google-signin-client_id" content="784354227250-lg8q5didqc1ok2115sda26aml72r4utu.apps.googleusercontent.com"/>
   <link href="assets/style.css" type="text/css" rel="stylesheet" />
   <script type="text/javascript" src="assets/angular.min.js"></script>
